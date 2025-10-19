@@ -21,4 +21,4 @@ Play directly in the browser, track your score, and enjoy a simple 9×9 puzzle g
 3. Matches are cleared and score updates automatically.
 
 
-![Candy Crush Preview](images/screenshot.png)
+![Candy Crush Preview](images/Screenshot.png)
